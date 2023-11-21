@@ -1,4 +1,4 @@
-module github.com/amtrindade/go-instesive
+module github.com/amtrindade/go-intensive
 
 go 1.13
 
